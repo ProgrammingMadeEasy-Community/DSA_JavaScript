@@ -1,0 +1,9 @@
+{
+  "name": "dsa-play-ground",
+  "version": "0.0.0",
+  "description": "DsaPlayGround",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
